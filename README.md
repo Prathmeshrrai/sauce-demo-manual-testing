@@ -28,7 +28,7 @@ Login, Products page (listing, sorting, product details), Cart, Checkout, Logout
 | BUG_007 | Checkout continues without a Last Name for error_user | High | [screenshot](BUG_005.jpg) |
 
 ## Files
-- `SauceDemo_Test_Log.xlsx`: test cases, bug reports and summary sheets
+- `SauceDemo_Test_Log-2.xlsx`: test cases, bug reports and summary sheets
 - `BUG_001.jpg` to `BUG_005.jpg`: screenshots for the bugs (BUG_005.jpg also covers BUG_007)
 
 ## Tools and concepts
